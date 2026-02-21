@@ -2,7 +2,7 @@
 /**
  * @file main.cpp
  * @brief Embedded RGB LED Control (Digital + PWM)
- * @author rishabh-rb
+ * @author Samarth
  * @date 2026-02-20
  *
  * @details
@@ -78,5 +78,5 @@ void loop() {
 
     // TODO 12:
     // Add delay for visible transition
-    delay(3000);
+    delay(1000);
 }
